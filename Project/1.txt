@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdf sdfsdf
 sdf sdf s
 df
@@ -8,3 +9,6 @@ df
  ывацук
  цук
  
+=======
+sdfdsfsdfwe
+>>>>>>> C
